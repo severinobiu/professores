@@ -1,0 +1,16 @@
+li{
+    background-color: blue;
+    border:groove 20px black;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+
+    text-decoration: overline;
+    text-transform: capitalize;
+
+}
+
+p{
+
+    background-color: blueviolet;
+}
